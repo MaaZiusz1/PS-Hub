@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MaaZiusz1/PS-Hub/main/loader.lua"))()
+
+Solara:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MaaZiusz1/PS-Hub/main/solara.lua"))()
