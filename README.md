@@ -1,4 +1,4 @@
-# Null Fire
+# PS Hub
 Yooooooooooooo my friend!
 
 PS Hub is a trash script... (dont deobfuscate else ill eat u)
